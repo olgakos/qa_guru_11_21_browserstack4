@@ -13,7 +13,6 @@ import static com.codeborne.selenide.Selenide.closeWebDriver;
 import static com.codeborne.selenide.Selenide.open;
 import static com.codeborne.selenide.logevents.SelenideLogger.addListener;
 import static helpers.Attach.getSessionId;
-import static helpers.Attach.getSessionId;
 
 public class TestBase {
     @BeforeAll

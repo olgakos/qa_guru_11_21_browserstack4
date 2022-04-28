@@ -17,7 +17,7 @@ public class WikiSearchMobileTest extends TestBase{
 
         step("Type search", () -> {
             $(MobileBy.AccessibilityId("Search Wikipedia")).click();
-            $(MobileBy.id("org.wikipedia.alpha:id/search_src_text")).setValue("Java");
+            $(MobileBy.id("org.wikipedia.alpha:id/search_src_text")).setValue("BrowserStack");
         });
         step("Verify content found", () ->
                 $$(byClassName("android.widget.TextView")).shouldHave(sizeGreaterThan(0)));

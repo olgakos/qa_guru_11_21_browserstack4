@@ -2,7 +2,7 @@ package config;
 
 import org.aeonbits.owner.Config;
 
-@Config.Sources({"classpath:credentials.properties"})
+@Config.Sources({"classpath:browserstack.properties"})
 public interface DataConfig extends Config {
 
     @Key("username")

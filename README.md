@@ -12,6 +12,7 @@
 <p align="center">
 <img title="Allure Graphics" src="img/add_allure1.jpg"  width="600" >
 </p>
+
 ###### Страница Allure с проведенными тестами (Suites)
 <p align="center">
 <img title="Allure Graphics" src="img/add_allure2.jpg"  width="600">

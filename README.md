@@ -8,6 +8,24 @@
 6. Добавлены артефакты тестирования (скриншот и видео) 
 
 ## :four_leaf_clover: Артефакты тестирования  
-1. Видео прохождения теста (автоматически прилагается к Allure отчету)
-2. Скриншот (автоматически прилагается к Allure отчету)
+###### Главный экран Allure отчета (Owerwiev)
+<p align="center">
+<img title="Allure Graphics" src="img/add_allure1.jpg">
+</p>
 
+###### Страница Allure с проведенными тестами (Suites)
+<p align="center">
+<img title="Allure Graphics" src="img/add_allure2.jpg">
+</p>
+
+## :watermelon: Видео прохождения тестов
+К каждому тесту (в отчете) прилагается автоматически сгенерирвонное видео. Пример:
+<p align="center">
+  <img title="Video" src="img/add_browserstack_com_Wiki_video.gif" alt="Video">
+</p>
+
+## :watermelon: Скриншот прохождения тестов
+К каждому тесту (в отчете) прилагается автоматически сгенерирвонный скриншот. Пример:
+<p align="center">
+  <img title="Video" src="img/add_browserstack_com_Wiki_last_screen.png" alt="Screenshot">
+</p>

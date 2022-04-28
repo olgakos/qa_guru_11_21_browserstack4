@@ -2,20 +2,21 @@
 ## :unicorn: Pet-projects: мобильное приложение Wikipedia
 1. Из открытого источника взят установщик мобильного приложения:  <a target="_blank" href="https://github.com/wikimedia/apps-android-wikipedia/releases/tag/latest">wikimedia/apps-android-wikipedia</a>
 2. Установщик загружен в demo-учетную запись <a target="_blank" href="https://www.browserstack.com/">BrowserStack</a> (сервис платный)
-3. Выбран желаемый эмулятор мобильного устройства (в данном примере это телефон Samsung Galaxy S21, OS 11.0)
-4. Добавлен тест, проверяющий работу поиска в Wikipedia (в данном примере это запрос "BrowserStack")
-5. Получены результаты теста в формате Allure отчета
-6. Добавлены артефакты тестирования (скриншот и видео) 
+3. Выбран желаемый эмулятор мобильного устройства. В данном примере это телефон Samsung Galaxy S21, OS 11.0.
+4. Добавлен тест, проверяющий работу поиска в Wikipedia. В данном примере это запрос "BrowserStack".
+5. Сборка запущена с помощью инструмента удаленного запуска Jenkins
+6. Получены результаты теста в формате Allure отчета
+7. Добавлены артефакты тестирования (скриншот и видео) 
 
 ## :four_leaf_clover: Allure 
 ###### Главный экран Allure отчета (Owerwiev)
 <p align="center">
-<img title="Allure Graphics" src="img/add_allure1.jpg"  width="900" >
+<img title="Allure Graphics" src="img/add_allure1.jpg"  width="1000" >
 </p>
 
 ###### Страница Allure с проведенными тестами (Suites)
 <p align="center">
-<img title="Allure Graphics" src="img/add_allure2.jpg"  width="900">
+<img title="Allure Graphics" src="img/add_allure2.jpg"  width="1000">
 </p>
 
 ## :watermelon: Скриншот прохождения тестов

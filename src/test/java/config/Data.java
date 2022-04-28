@@ -15,7 +15,7 @@ public class Data {
     }
 
     public static String getApp() {
-        return configStack.identificateapp();
+        return configStack.idapp();
     }
 
     public static String url() {

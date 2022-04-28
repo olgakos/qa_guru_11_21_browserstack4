@@ -11,8 +11,8 @@ public interface DataConfig extends Config {
     @Key("password")
     String password();
 
-    @Key("identificateapp")
-    String identificateapp();
+    @Key("idapp")
+    String idapp();
 
     @Key("url")
     String url();

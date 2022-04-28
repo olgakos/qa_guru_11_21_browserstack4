@@ -12,7 +12,8 @@ public class WikiSearchMobileTest extends TestBase{
     @Test
     void searchTest() {
         //step("Skip onboarding page", () -> back());
-        step("Skip first screen", () -> $(MobileBy.id("org.wikipedia.alpha:id/fragment_onboarding_skip_button")).click());
+        step("Skip first screen", () ->
+                $(MobileBy.id("org.wikipedia.alpha:id/fragment_onboarding_skip_button")).click());
 
         step("Type search", () -> {
             $(MobileBy.AccessibilityId("Search Wikipedia")).click();

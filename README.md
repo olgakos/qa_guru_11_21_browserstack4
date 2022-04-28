@@ -1,4 +1,5 @@
-# Пример выполнения мобильного тестирования с инструментом Browserstack
+# Пример выполнения 
+# мобильного тестирования с Browserstack
 ## :unicorn: Pet-projects: мобильное приложение Wikipedia
 1. Из открытого источника взят установщик мобильного приложения:  <a target="_blank" href="https://github.com/wikimedia/apps-android-wikipedia/releases/tag/latest">wikimedia/apps-android-wikipedia</a>
 2. Установщик загружен в demo-учетную запись <a target="_blank" href="https://www.browserstack.com/">BrowserStack</a> (сервис платный)

@@ -10,12 +10,10 @@ public class Data {
         return configStack.username();
     }
 
-    public static String getPassword() {
-        return configStack.password();
-    }
+    public static String getPassword() { return configStack.password(); }
 
     public static String getApp() {
-        return configStack.idapp();
+        return configStack.idiapp();
     }
 
     public static String url() {

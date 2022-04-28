@@ -10,12 +10,12 @@
 ## :four_leaf_clover: Allure 
 ###### Главный экран Allure отчета (Owerwiev)
 <p align="center">
-<img title="Allure Graphics" src="img/add_allure1.jpg"  width="800" >
+<img title="Allure Graphics" src="img/add_allure1.jpg"  width="900" >
 </p>
 
 ###### Страница Allure с проведенными тестами (Suites)
 <p align="center">
-<img title="Allure Graphics" src="img/add_allure2.jpg"  width="800">
+<img title="Allure Graphics" src="img/add_allure2.jpg"  width="900">
 </p>
 
 ## :watermelon: Скриншот прохождения тестов

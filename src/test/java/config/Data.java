@@ -13,7 +13,7 @@ public class Data {
     public static String getPassword() { return configStack.password(); }
 
     public static String getApp() {
-        return configStack.idiapp();
+        return configStack.app();
     }
 
     public static String url() {

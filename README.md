@@ -10,22 +10,22 @@
 ## :four_leaf_clover: Артефакты тестирования  
 ###### Главный экран Allure отчета (Owerwiev)
 <p align="center">
-<img title="Allure Graphics" src="img/add_allure1.jpg">
+<img title="Allure Graphics" src="img/add_allure1.jpg"  width="400" >
 </p>
 
 ###### Страница Allure с проведенными тестами (Suites)
 <p align="center">
-<img title="Allure Graphics" src="img/add_allure2.jpg">
+<img title="Allure Graphics" src="img/add_allure2.jpg"  width="400" >
 </p>
 
 ## :watermelon: Видео прохождения тестов
 К каждому тесту (в отчете) прилагается автоматически сгенерирвонное видео. Пример:
 <p align="center">
-  <img title="Video" src="img/add_browserstack_com_Wiki_video.gif" alt="Video">
+  <img title="Video" src="img/add_browserstack_com_Wiki_video.gif"  width="300"  alt="Video">
 </p>
 
 ## :watermelon: Скриншот прохождения тестов
 К каждому тесту (в отчете) прилагается автоматически сгенерирвонный скриншот. Пример:
 <p align="center">
-  <img title="Video" src="img/add_browserstack_com_Wiki_last_screen.png" alt="Screenshot">
+  <img title="Video" src="img/add_browserstack_com_Wiki_last_screen.png" width="300" alt="Screenshot">
 </p>

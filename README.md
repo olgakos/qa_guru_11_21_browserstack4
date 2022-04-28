@@ -7,25 +7,27 @@
 5. Получаем результаты теста в фомате Allure отчета
 6. Добавлены артефакты тестирования (скриншот и видео) 
 
-## :four_leaf_clover: Артефакты тестирования  
+## :four_leaf_clover: Allure 
 ###### Главный экран Allure отчета (Owerwiev)
 <p align="center">
-<img title="Allure Graphics" src="img/add_allure1.jpg"  width="400" >
+<img title="Allure Graphics" src="img/add_allure1.jpg"  width="600" >
 </p>
-
 ###### Страница Allure с проведенными тестами (Suites)
 <p align="center">
-<img title="Allure Graphics" src="img/add_allure2.jpg"  width="400" >
+<img title="Allure Graphics" src="img/add_allure2.jpg"  width="600">
+</p>
+
+## :watermelon: Скриншот прохождения тестов
+К каждому тесту (в отчете) прилагается автоматически сгенерирванный скриншот. Пример:
+<p align="center">
+  <img title="Screenshot" src="img/add_browserstack_com_Wiki_last_screen.png" width="300" alt="Screenshot">
 </p>
 
 ## :watermelon: Видео прохождения тестов
-К каждому тесту (в отчете) прилагается автоматически сгенерирвонное видео. Пример:
+К каждому тесту прилагается автоматически сгенерирванное видео. Пример:
 <p align="center">
   <img title="Video" src="img/add_browserstack_com_Wiki_video.gif"  width="300"  alt="Video">
 </p>
 
-## :watermelon: Скриншот прохождения тестов
-К каждому тесту (в отчете) прилагается автоматически сгенерирвонный скриншот. Пример:
-<p align="center">
-  <img title="Video" src="img/add_browserstack_com_Wiki_last_screen.png" width="300" alt="Screenshot">
-</p>
+-------
+ver1 2022-04-28
